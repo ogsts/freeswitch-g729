@@ -2,8 +2,6 @@ originale
 ==========
 https://github.com/xadhoom/mod_bcg729
 
-Il make scarica altri git in giro, prossima versione indipendente!
-
 
 mod_bcg729
 ==========
