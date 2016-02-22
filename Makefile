@@ -1,7 +1,7 @@
 ################################
 ### FreeSwitch headers files ###
-FS_INCLUDES=/opt/freeswitch/include
-FS_MODULES=/opt/freeswitch/mod
+FS_INCLUDES=/opt/include
+FS_MODULES=/opt/mod
 ################################
 
 ### END OF CUSTOMIZATION ###
