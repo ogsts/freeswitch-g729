@@ -1,11 +1,9 @@
-<<<<<<< HEAD
-=======
+==========
 originale
 ==========
 https://github.com/xadhoom/mod_bcg729
 
 
->>>>>>> 06b765e1b47b9ad1646e738a7d3ba6cab74e9ce2
 mod_bcg729
 ==========
 
